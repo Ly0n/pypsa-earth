@@ -1,0 +1,18 @@
+
+<!--
+SPDX-FileCopyrightText:  PyPSA-Earth and PyPSA-Eur Authors
+
+SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+This repository uses multiple licenses:
+
+1. LICENSES/AGPL-3.0-or-later
+   See `LICENSES/AGPL-3.0-or-later.txt` for details.
+
+2. CC-BY-4.0 License
+   See `LICENSES/CC-BY-4.0` for details.
+
+3. CC0-1.0.txt
+   See `LICENSES/CC0-1.0.txt` for details.
+
+Refer to the individual files in the LICENSES directory for the full license texts.
